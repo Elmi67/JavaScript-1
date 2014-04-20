@@ -3,7 +3,14 @@
 ## The Fundamentals
 
 JavaScript (more formally known as ECMAScript, but fortunately nobody goes there) is a _scripting_
-language for web sites.
+language for web sites. JavaScript is used to add interactive features to a web site. It is a facinating (and frustrating) subject and we'll only be able to scratch the surface here.
+
+What I want you to come away with is:
+
+1. The knowledge of what JavaScript is and how to add JavaScript to a web page.
+2. A rudimentary understanding of how to read the code.
+3. Some experience finding and reusing useful bits of code – basiclly seeing how much you can do without having to be expert in writing JavaScript.
+4. Knowing how to learn more on your own.
 
 ## What You're Expected to Know and Be Able to Do
 
