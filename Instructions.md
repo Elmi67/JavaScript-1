@@ -21,6 +21,12 @@ What I want you to come away with is:
 * client-side / server-side
 * event
 * DOM
+* string
+* boolean
+* variable
+* function
+* array
+* if statement (or if/else)
 
 ### Skills
 
@@ -34,6 +40,8 @@ What I want you to come away with is:
 ### The Rubric
 
 ## Things To Try
+
+* [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name)
 
 ## How To Show That You've Got It
 
