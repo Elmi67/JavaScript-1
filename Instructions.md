@@ -41,7 +41,7 @@ What I want you to come away with is:
 
 ## Things To Try
 
-* [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name)
+* [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name): this is a relatively gentle introduction to coding in JavaScript. It covers some of the most common data types, strings, numbers, booleans, and arrays. It also introduces the notion of a function and making decisions with if statements. The drag of this lesson is that they hide the code that does the cool stuff from you.
 
 ## How To Show That You've Got It
 
