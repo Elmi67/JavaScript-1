@@ -18,8 +18,10 @@ language for web sites.
 ### Skills
 
 * Explain the role of JavaScript in modern web site development.
-* Explain how JavaScript "works" – how do you add JavaScript to a site? What causes the JavaScript to run? How does the JavaScript change the web page?
+* Explain how JavaScript "works:" How do you add JavaScript to a web page?
+  What causes the JavaScript to run? How does the JavaScript change the web page?
 * Add some JavaScript to a web site.
+* View your browser's JavaScript console.
 * Solve a JavaScript problem through your own research.
 
 ### The Rubric
@@ -27,3 +29,8 @@ language for web sites.
 ## Things To Try
 
 ## How To Show That You've Got It
+
+## JavaScript Resources
+
+* [HTML Dog JavaScript Beginner Tutorial](http://htmldog.com/guides/javascript/)
+* [CodeAcademy JavaScript Track](http://www.codecademy.com/tracks/javascript)
