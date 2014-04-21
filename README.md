@@ -12,7 +12,7 @@ What I want you to come away with is:
 3. Some experience finding and reusing useful bits of code – basiclly seeing how much you can do without having to be expert in writing JavaScript.
 4. Knowing how to learn more on your own.
 
-## What You're Expected to Know and Be Able to Do
+## What you're expected to know and be able to do
 
 ### Vocabulary
 
@@ -27,7 +27,7 @@ What I want you to come away with is:
 * function
 * array
 * if statement (or if/else)
-* JQuery
+* jQuery
 * API
 * library
 
@@ -55,3 +55,4 @@ What I want you to come away with is:
 * [HTML Dog JavaScript Beginner Tutorial](http://htmldog.com/guides/javascript/)
 * [JavaScript Roadtrip](http://javascript-roadtrip.codeschool.com)
 * [CodeAcademy JavaScript Track](http://www.codecademy.com/tracks/javascript)
+* [jQuery: Nothing but the goods](http://www.impressivewebs.com/jquery-tutorial-for-beginners)
