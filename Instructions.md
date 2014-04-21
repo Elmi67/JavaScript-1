@@ -27,15 +27,20 @@ What I want you to come away with is:
 * function
 * array
 * if statement (or if/else)
+* JQuery
+* API
+* library
 
 ### Skills
 
 * Explain the role of JavaScript in modern web site development.
 * Explain how JavaScript "works:" How do you add JavaScript to a web page?
   What causes the JavaScript to run? How does the JavaScript change the web page?
+* Explain the purpose and use of JavaScript libraries such as JQuery. When would you use a library?
+  How would you connect it to your page?
 * Add some JavaScript to a web site.
 * View your browser's JavaScript console.
-* Solve a JavaScript problem through your own research.
+* Solve a (simple) JavaScript problem through your own research.
 
 ### The Rubric
 
@@ -45,7 +50,8 @@ What I want you to come away with is:
 
 ## How To Show That You've Got It
 
-## JavaScript Resources
+## JavaScript Tutorials
 
 * [HTML Dog JavaScript Beginner Tutorial](http://htmldog.com/guides/javascript/)
+* [JavaScript Roadtrip](http://javascript-roadtrip.codeschool.com)
 * [CodeAcademy JavaScript Track](http://www.codecademy.com/tracks/javascript)
