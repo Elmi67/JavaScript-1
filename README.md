@@ -42,13 +42,17 @@ What I want you to come away with is:
 * View your browser's JavaScript console.
 * Solve a (simple) JavaScript problem through your own research.
 
-### The Rubric
-
 ## Things To Try
+
+* Get a little bit of JavaScript running: for example a simple function that sets an alerat called in response to the ```onload``` event would be a great start.
 
 * [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name): this is a relatively gentle introduction to coding in JavaScript. It covers some of the most common data types, strings, numbers, booleans, and arrays. It also introduces the notion of a function and making decisions with if statements. The drag of this lesson is that they hide the code that does the cool stuff from you.
 
+* The HTML ```<canvas>``` tag provides a fun way to explore JavaScript and graphics. The Mozilla Developer Network has a decent [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial).
+
 ## How To Show That You've Got It
+
+Start a JavaScript repository on your GitHub account and use it to store your work with JavaScript.
 
 ## JavaScript Tutorials
 
