@@ -44,7 +44,7 @@ What I want you to come away with is:
 
 ## Things To Try
 
-* Get a little bit of JavaScript running: for example a simple function that sets an alerat called in response to the ```onload``` event would be a great start.
+* Get a little bit of JavaScript running: for example a simple function that sets an alert called in response to the ```onload``` event would be a great start.
 
 * [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name): this is a relatively gentle introduction to coding in JavaScript. It covers some of the most common data types, strings, numbers, booleans, and arrays. It also introduces the notion of a function and making decisions with if statements. The drag of this lesson is that they hide the code that does the cool stuff from you.
 
