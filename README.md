@@ -44,9 +44,10 @@ What I want you to come away with is:
 
 ## Things To Try
 
-* Get a little bit of JavaScript running: for example a simple function that sets an alert called in response to the ```onload``` event would be a great start.
-
 * [CodeAcademy: Annimate Your Name](http://www.codecademy.com/courses/animate-your-name): this is a relatively gentle introduction to coding in JavaScript. It covers some of the most common data types, strings, numbers, booleans, and arrays. It also introduces the notion of a function and making decisions with if statements. The drag of this lesson is that they hide the code that does the cool stuff from you.
+
+* [HTML Dog JavaScript Beginner Tutorial](http://htmldog.com/guides/javascript/) or the
+[JavaScript Roadtrip](http://javascript-roadtrip.codeschool.com) – with the goal of learning how to connect JavaScript to a web page.
 
 * The HTML ```<canvas>``` tag provides a fun way to explore JavaScript and graphics. The Mozilla Developer Network has a decent [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial).
 
