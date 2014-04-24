@@ -53,7 +53,8 @@ What I want you to come away with is:
 
 ## How To Show That You've Got It
 
-Start a JavaScript repository on your GitHub account and use it to store your work with JavaScript.
+1. Start a JavaScript repository on your GitHub account and use it to store your work with JavaScript. Practice with git whenever you can till it becomes second nature.
+2. Clone the repository to your local machine and follow the instructions in js101.html. After each step test your work and commit your changes to GitHub.
 
 ## JavaScript Tutorials
 
