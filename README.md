@@ -51,6 +51,8 @@ What I want you to come away with is:
 
 * The HTML ```<canvas>``` tag provides a fun way to explore JavaScript and graphics. The Mozilla Developer Network has a decent [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial).
 
+* Loops are a basic – but extremely useful – programming technique. This [Loops](http://www.echoecho.com/javascript9.htm) tutorial is a fairly simple introduction. The file for-loop.html in this repository is a small, but useful, example of how a loop could be used.
+
 ## How To Show That You've Got It
 
 1. Start a JavaScript repository on your GitHub account and use it to store your work with JavaScript. Practice with git whenever you can till it becomes second nature.
